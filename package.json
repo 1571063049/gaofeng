@@ -1,6 +1,6 @@
 {
   "name": "gaofeng",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a Tool of vue framework to install project for scaffolding",
   "main": "index.js",
   "bin": {
@@ -11,20 +11,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/1571063049/gf.git"
+    "url": "git+https://github.com/1571063049/gaofeng.git"
   },
   "keywords": [
     "gf",
-    "gaofeng"
+    "gaofeng",
+    "vue",
+    "CLI",
+    "component"
   ],
   "author": "gaofeng",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/1571063049/gf/issues"
+    "url": "https://github.com/1571063049/gaofeng/issues"
   },
-  "homepage": "https://github.com/1571063049/gf#readme",
+  "homepage": "https://github.com/1571063049/gaofeng#readme",
   "dependencies": {
-    "chalk": "^5.0.1",
     "commander": "^9.4.0",
     "download-git-repo": "^3.0.2",
     "ejs": "^3.1.8",
