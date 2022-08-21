@@ -2,8 +2,8 @@
 a scaffold for vue similar as vue-cli but have a characteristic
 如何安装？
 
-npm install gaofeng -g
-创建项目
+> npm install gaofeng -g
+#创建项目
 目前支持Vue
 
 vue项目模块已经帮你配置：
@@ -13,12 +13,12 @@ vue.config.js（其中配置了别名，你可以自行修改和配置更多）
 axios（网络请求axios的安装以及二次封装）
 vue-router（router的安装和配置，另外有路由的动态加载，后面详细说明）
 vuex（vuex的安装和配置，另外有动态加载子模块，后面详细说明）
-创建项目
+#创建项目
 
 gaofeng create your_project_name
 自动拉取项目模板、安装项目依赖、打开浏览器 http://localhost:8080/、自动启动项目
 
-项目开发
+#项目开发
 项目开发目前提供三个功能：
 
 创建Vue组件
