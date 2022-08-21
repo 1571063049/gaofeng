@@ -1,6 +1,6 @@
 # 说明文档
 
-### gaofegn： 一个帮助你快速搭建和开发前端项目的CLI（灵感来源coderwhy）
+## `gaofegn`： 一个帮助你快速搭建和开发前端项目的CLI（灵感来源coderwhy）
 
 如何安装？
 
